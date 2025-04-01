@@ -1,0 +1,7 @@
+Levenshtein==0.27.1
+numpy==2.2.4
+opencv-python==4.11.0.86
+packaging==24.2
+pillow==11.1.0
+pytesseract==0.3.13
+RapidFuzz==3.12.2
