@@ -6,7 +6,7 @@ Install Python (made on version 3.13.2)
 
 Clone the repo and cd to project folder
 ```
-git clone https://github.com/leinarc/festeval
+git clone https://github.com/leinarc/festeval.git
 cd festeval
 ```
 
@@ -17,7 +17,7 @@ Extract the dataset to have a folder structure like this:
 funsd
 ├── testing_data
 │   ├── images
-│       └── ... # .jpg files
+│   │   └── ... # .jpg files
 │   └── annotations
 │       └── ... # .json files
 └── training_data
